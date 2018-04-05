@@ -8,7 +8,7 @@ logo: false
 paginate: 15
 baseurl: /
 domain_name: 'https://dianazv.github.io'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-61823614-1'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
