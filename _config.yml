@@ -6,7 +6,7 @@ markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: /project-name
+baseurl: /
 domain_name: 'https://dianazv.github.io'
 google_analytics: 'UA-61823614-1'
 gems: [jekyll-paginate]
