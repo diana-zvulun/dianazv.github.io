@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mirror puppetlabs yum repository with reposync to a local repository"
-date: 2019-09-12 11:19:34 +0300
+date: 2019-09-12 00:00:00 +0300
 comments: true
 categories: reposync yum puppet
 ---
