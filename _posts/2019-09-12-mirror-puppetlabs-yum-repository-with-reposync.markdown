@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "Mirror puppetlabs yum repository with reposync to a local repository"
+title: "Mirror puppetlabs yum repository with reposync"
 date: 2019-09-12 00:00:00 +0300
 comments: true
 categories: reposync yum puppet
 ---
+Some systems can't be connected to the Internel due to security reasons. In that case you will need to use a local yum repository in your environment, and every once in a while you will need to update this repository. In this post I will show you how to mirror puppetlabs yum repository to a local one using reposync command.
+<!--more-->
 
 ### **Install the repository package from puppetlabs** ###
-<!--more-->
 ```
 yum install wget
 wget https://yum.puppet.com/puppet6-release-el-7.noarch.rpm
