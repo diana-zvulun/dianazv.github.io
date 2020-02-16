@@ -35,8 +35,7 @@ This is a [tool](https://github.com/puppetlabs/puppetlabs-catalog_preview) writt
 * Run the preview command on a selected node: ```puppet preview --baseline-environment baseline_env <servernamefqdn> --migrate 3.8/4.0 --view overview``` and make fixes as you go along.
 
 
-The output has all kinds of error messages which are detailed in the documentation:
-[https://github.com/puppetlabs/puppetlabs-catalog_preview#understanding-output-and-results](https://github.com/puppetlabs/puppetlabs-catalog_preview#understanding-output-and-results), but the desired state is both catalogs having the same resources declared, if you see your new environment is not aligned with your previous one, you should check why and make sure they are the same.
+The output has all kinds of error messages which are detailed in the [documentation](https://github.com/puppetlabs/puppetlabs-catalog_preview#understanding-output-and-results), but the desired state is both catalogs having the same resources declared, if you see your new environment is not aligned with your previous one, you should check why and make sure they are the same.
 
 Good Luck!
 
