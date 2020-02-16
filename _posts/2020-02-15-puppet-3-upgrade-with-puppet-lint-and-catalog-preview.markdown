@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Puppet 3 upgrade with puppet-lint and Catalog Preview"
-date: 2019-09-12 00:00:00 +0300
+date: 2020-02-15 00:00:00 +0300
 comments: true
 categories: puppet puppet-lint catalog-preview
 ---
